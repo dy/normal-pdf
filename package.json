@@ -1,0 +1,30 @@
+{
+  "name": "normal-pdf",
+  "version": "1.0.0",
+  "description": "Get gaussian density at a point",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfcreative/normal-pdf.git"
+  },
+  "keywords": [
+    "normal",
+    "gaussian",
+    "distribution",
+    "pdf",
+    "standard",
+    "mean",
+    "variance",
+    "deviation",
+    "sigma"
+  ],
+  "author": "ΔY <dfcreative@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfcreative/normal-pdf/issues"
+  },
+  "homepage": "https://github.com/dfcreative/normal-pdf#readme"
+}
