@@ -1,6 +1,6 @@
 {
   "name": "normal-pdf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get gaussian density at a point",
   "main": "index.js",
   "scripts": {
