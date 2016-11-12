@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dfcreative/normal-pdf/master/image.jpg" alt="Normal distribution pdf" width="200"/>
+<img src="https://raw.githubusercontent.com/dfcreative/normal-pdf/master/image.jpg" alt="Normal distribution pdf" width="320"/>
 
 # normal-pdf
 
