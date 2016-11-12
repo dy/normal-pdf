@@ -11,4 +11,4 @@ Get normal distribution density value at a point.
 Returns `density` value for the `x` with gaussian parameters _mean_ `μ` and _variance_ `σ²`.
 If parameters are omitted, it will use standard zero mean and unit variance.
 
-![normal-pdf](https://raw.githubusercontent.com/dfcreative/normal-pdf/master/image.jpg "normal-pdf" | width=100)
+<img src="https://raw.githubusercontent.com/dfcreative/normal-pdf/master/image.jpg" alt="Normal distribution pdf" width="100"/>
