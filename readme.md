@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/dfcreative/normal-pdf/master/image.jpg" alt="Normal distribution pdf" width="200"/>
+
 # normal-pdf
 
 Get normal distribution density value at a point.
@@ -14,5 +16,3 @@ If parameters are omitted, it will use standard zero mean and unit variance.
 ## License
 
 MIT.
-
-<img src="https://raw.githubusercontent.com/dfcreative/normal-pdf/master/image.jpg" alt="Normal distribution pdf" width="100"/>
