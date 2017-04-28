@@ -2,6 +2,8 @@
 
 # normal-pdf
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dfcreative/normal-pdf.svg)](https://greenkeeper.io/)
+
 Get normal distribution density value at a point.
 
 ## Usage
